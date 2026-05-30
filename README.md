@@ -1,4 +1,4 @@
 # Random-Number-Game
 This is my first Git Repository
 <br>
-Author - Karan
+Author - Karan (Umbrella)
